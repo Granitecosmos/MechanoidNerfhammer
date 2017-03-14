@@ -1,5 +1,5 @@
 # Mechanoid Nerfhammer
-Have you ever wondered why every second hit from an Inferno Cannon almost guaranteed to hit your Colonist? Have you ever thought some kind of change should be in order?
+Have you ever wondered why every second hit from an Inferno Cannon is almost guaranteed to hit your Colonist? Have you ever thought some kind of change should be in order?
 
 Well fear not, for I bring you Mechanoid Nerfhammer!
 
