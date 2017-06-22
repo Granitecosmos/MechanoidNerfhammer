@@ -49,7 +49,7 @@ Overall, Mechanoids need an overhaul. Centipedes pose almost no danger unless th
 Hey, these things were the top of the food chain for so many Alphas. Serves them right.
 
 ## Compatibility
-Anything that changes Inferno Cannons will be incompatible with this.
+Anything that changes the Inferno Cannon's range and projetile explosion radius via patching might be incompatible.
 
 ## Changelog
 Version 1.0.16.0.0
