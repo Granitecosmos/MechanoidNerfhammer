@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/ThingDefs/ThingDef[defName = "Bullet_InfernoCannon"]/projectile/explosionRadius</xpath>
+		<Value>
+			<explosionRadius>1.9</explosionRadius >
+		</Value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/ThingDefs/ThingDef[defName = "Gun_InfernoCannon"]/verbs/li/range</xpath>
+		<Value>
+			<range>24</range>
+		</Value>
+	</Operation>
+</Patch>
